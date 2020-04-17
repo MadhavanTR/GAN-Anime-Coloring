@@ -12,7 +12,7 @@ dependencies:
   - mpi4py
   - pandas
   - tensorflow=1.15
-  - pyunpack
+  # - pyunpack
   - pillow
   - imageio
   - glob2
